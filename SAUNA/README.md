@@ -129,7 +129,7 @@ After performing analysis in bloodhound and not finding a route, I tried if some
 
 ![](winpeas.png)
 
-
+We don't need to log in, but we can perform DC synchronization form out linux host
 
 ![](secrets.png)
 # Root!
