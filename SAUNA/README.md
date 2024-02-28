@@ -136,7 +136,7 @@ We don't need to log in, but we can perform DC synchronization form out linux ho
 
 Now we can log in with evil-winrm as administrator:
 
-![](34f5886fd7d2095f05f9e7a0a30b28a3)
+![](root.png)
 
 ```sh
 
